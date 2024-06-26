@@ -1,8 +1,13 @@
-**Meu nome é JULIA TOLEDO**
+**BOAS VINDAS AO MEU PERFIL**
 
- Estou estudando na Alura
- Estou me desenvolvendo na linguagem JavaScript
- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+Estou estudando Alura 
 
-![](https://www.iguassuit.com.br/uploads/rar/20200521133336-220---alura.jpg)
+Estou me desenvolvendo na linguagem JavaScript
 
+Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+ 
+**VOCÊ PODE ENTRAR EM CONTATO COMIGO** 📫
+
+0001086175554sp@al.educacao.sp.gov.br
+
+@aluraestudante
